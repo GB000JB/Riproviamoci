@@ -14,6 +14,7 @@ nav:
   - Home: index.md
   - Carriera: carriera.md
   - Lavori: lavori.md
+  - Garibaldi: garibaldi.md
 
 extra_css:
   - overrides/extra.css
